@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "id": "bem-vindo",
+      "date": "2026-10-06",
+      "tag": "Denver",
+      "title": "Bem-vindo a Denver",
+      "description": "Entre no Discord para ler as regras e acompanhar as novidades do servidor.",
+      "url": "https://discord.gg/GGpyUqZxwU"
+    },
+    {
+      "id": "loja",
+      "date": "2026-10-06",
+      "tag": "Loja",
+      "title": "Loja do Denver",
+      "description": "Apoie o servidor e confira os itens disponíveis na nossa loja.",
+      "url": "https://denver.loja.gg/"
+    },
+    {
+      "id": "launcher",
+      "date": "2026-10-06",
+      "tag": "Launcher",
+      "title": "Novo launcher",
+      "description": "Agora o launcher se atualiza sozinho, mostra quem está na cidade e limpa o cache do RedM em um clique."
+    }
+  ]
+}
